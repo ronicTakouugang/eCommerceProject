@@ -1,7 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Using your terminal and the command cd, enter the project's root which in this case is "eCommerceProject"
 
+  - Use the command npm install --legacy-peer-deps to install all the dependencies necessary for this eCommerceProject
+
+## Installing Sanity
+This projects includes sanity(https://www.sanity.io/) that you should install before continuing; Run the following commands:
+  - npm install -g @sanity/cli to install Sanity
+  sanity init
+After this, you will be asked to create a sanity account and give a project name for
 First, run the development server:
 
 ```bash
